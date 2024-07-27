@@ -678,7 +678,7 @@ fill: #4D5AE5;
 .checkbox-div{
     margin-bottom: 24px;
 }
-input:checked span {
+.check-box-class:checked span {
     background-color: #404bbf;
     border: none;
     fill: #F4F4FD;
