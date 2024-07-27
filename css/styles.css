@@ -702,6 +702,7 @@ color: #8e8f99;
     align-items: center;
     justify-content: center;
     fill: transparent;
+    
 }
 .link-window{
     color: #4d5ae5;
@@ -720,4 +721,7 @@ color: #8e8f99;
     background-color: #4D5AE5;
     border: none;
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+.input-class-window span {
+fill: #4D5AE5;
 }
